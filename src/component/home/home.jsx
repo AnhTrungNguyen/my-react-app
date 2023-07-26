@@ -5,70 +5,57 @@ function Home() {
          <main>
       <div class="container">
         <div class="top">
-          <img class="header" src="./assets/header.png" />
+          <img class="header" src="header.png" />
         </div>
         <div class="content">
           <div class="info">
-            <h2>Treats and fun</h2>
-            <nav>
-              <navItem>
-                <a href="#">one</a>
-              </navItem>
-              <navItem>
-                <a href="#">two</a>
-              </navItem>
-              <navItem>
-                <a href="#">three</a>
-              </navItem>
-              <button>yes</button>
-            </nav>
           </div>
           <div class="grid">
             <div class="item-holder">
               <div class="item">
-                <img src="./assets/smoothie.png" />
+                <img src="smoothie.png" />
                 <div class="label">label</div>
               </div>
             </div>
             <div class="item-holder">
               <div class="item">
-                <img src="./assets/grapefruit.png" />
+                <img src="grapefruit.png" />
                 <div class="label">label</div>
               </div>
             </div>
             <div class="item-holder">
               <div class="item">
-                <img src="./assets/dessert.png" />
+                <img src="desert.png" />
                 <div class="label">label</div>
               </div>
             </div>
             <div class="item-holder">
               <div class="item">
-                <img src="./assets/strawberry.png" />
+                <img src="strawberry.png" />
                 <div class="label">label</div>
               </div>
             </div>
             <div class="item-holder">
               <div class="item">
-                <img src="./assets/unknown.png" />
+                <img src="unknown.png" />
                 <div class="label">label</div>
               </div>
             </div>
             <div class="item-holder">
               <div class="item">
-                <img src="./assets/icecream.png" />
+                <img src="icecream.png" />
                 <div class="label">label</div>
               </div>
             </div>
             <div class="item-holder">
               <div class="item">
-                <img src="./assets/unknown2.png" />
+                <img src="unknown2.png" />
                 <div class="label">label</div>
               </div>
             </div>
             <div class="item-holder">
               <div class="item">
-                <img src="./assets/mysteryfruit.png" />
+                <img src="vite.svg" />
                 <div class="label">label</div>
               </div>
             </div>
