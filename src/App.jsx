@@ -7,6 +7,7 @@ import Food from './component/food/food'
 import Blog from './component/blog/blog';
 import Contact from './component/contact/contact';
 import Donate from './component/donate/donate';
+import Footer from './component/footer/footer';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/donate" element={<Donate />} />
         </Routes>
+        <Footer />
       </div>
     </Router>
   );
